@@ -17,14 +17,14 @@ In this workshop, all the demonstration will be done using Visual Studio Code, w
 
 ## Topics we'll be covering:
 
-- [Creating the react application](https://github.com/Propo41/msa-workshop/tree/main#creating-the-react-application)
-- [Creating a dotnet project template](https://github.com/Propo41/msa-workshop/tree/main#creating-a-dotnet-project-template)
-- [How Controllers work](https://github.com/Propo41/msa-workshop/tree/main#how-controllers-work)
-- [Adding MongoDB](https://github.com/Propo41/msa-workshop/tree/main#adding-mongodb)
-- [Creating User accounts](https://github.com/Propo41/msa-workshop/tree/main#creating-user-accounts)
-- [Creating a JWT token](https://github.com/Propo41/msa-workshop/tree/main#creating-a-jwt-token)
-- [Custom Middleware Authentication](https://github.com/Propo41/msa-workshop/tree/main#custom-middleware-authentication)
-- [Creating Authenticated Endpoints & Cloud Bucket](https://github.com/Propo41/msa-workshop/tree/main#creating-authenticated-endpoints)
+- [Creating the react application](https://github.com/sa-bd/dotnet-react-webdev/tree/main/Resources/ProjectFiles#creating-the-react-application)
+- [Creating a dotnet project template](https://github.com/sa-bd/dotnet-react-webdev/tree/main#creating-a-dotnet-project-template)
+- [How Controllers work](https://github.com/sa-bd/dotnet-react-webdev/main#how-controllers-work)
+- [Adding MongoDB](https://github.com/sa-bd/dotnet-react-webdev/tree/main#adding-mongodb)
+- [Creating User accounts](https://github.com/sa-bd/dotnet-react-webdev/tree/main#creating-user-accounts)
+- [Creating a JWT token](https://github.com/sa-bd/dotnet-react-webdev/tree/main#creating-a-jwt-token)
+- [Custom Middleware Authentication](https://github.com/sa-bd/dotnet-react-webdev/tree/main#custom-middleware-authentication)
+- [Creating Authenticated Endpoints & Cloud Bucket](https://github.com/sa-bd/dotnet-react-webdev/tree/main#creating-authenticated-endpoints)
 
 ## What we're building
 
@@ -63,7 +63,7 @@ The private APIs that should be authenticated:
 
 ### Creating the react application
 
-We first need to create the react project. Since this workshop mainly focuses on the backend development, we are going to use a pre-existing react application that can be found [here](https://github.com/Propo41/msa-workshop/tree/main/01_client). 
+We first need to create the react project. Since this workshop mainly focuses on the backend development, we are going to use a pre-existing react application that can be found [here](https://github.com/sa-bd/dotnet-react-webdev/tree/main/01_client). 
 
 ### Creating a dotnet project template
 
@@ -954,4 +954,4 @@ Finally, we add the front end code to send a POST request with the Post contents
         config 
       );
 ```
-That's it for the workshop. You can find the completed project [here](https://github.com/Propo41/msa-workshop/tree/main/03_completed_project)
+That's it for the workshop. You can find the completed project [here](https://github.com/sa-bd/dotnet-react-webdev/tree/main/03_completed_project)
