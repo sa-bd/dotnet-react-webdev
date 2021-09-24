@@ -1,0 +1,94 @@
+:root {
+  /* Color codes */
+  --body-color: #f5faff;
+  --black: #484848;
+  --darkash: #969696;
+  --ash: #f3f3f3;
+  --white: #ffffff;
+  --red: #d67979;
+  --font: "Cuprum", sans-serif;
+  --font-size-navbar: 0.9rem;
+  --font-size-brand: 2rem;
+  --font-size-button: 0.9rem;
+  --font-size-button-small: 0.75rem;
+  --font-size-h6: 1rem;
+
+}
+
+h1 {
+  font-family: "Cuprum", sans-serif !important;
+  font-size: 3.15rem !important;
+}
+
+h2 {
+  font-family: "Cuprum", sans-serif !important;
+  font-size: 2rem !important;
+}
+
+h3 {
+  font-family: "Cuprum", sans-serif !important;
+  font-size: 1.575rem !important;
+}
+
+h4 {
+  font-family: "Cuprum", sans-serif !important;
+  font-size: 1.35rem !important;
+}
+
+h5 {
+  font-family: "Cuprum", sans-serif !important;
+  font-size: 1.125rem !important;
+}
+
+h6 {
+  font-family: "Cuprum", sans-serif !important;
+  font-size: 1rem !important;
+}
+
+p {
+  font-family: "Cuprum", sans-serif !important;
+  font-size: 0.675rem !important;
+}
+
+body {
+  background-color: var(--body-color) !important;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
