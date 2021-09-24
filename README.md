@@ -5,14 +5,11 @@
 [![dotnet-five](https://img.shields.io/badge/.NET-5.0-blueviolet?style=for-the-badge&logo=appveyor)](#)
 [![auth-jwt](https://img.shields.io/badge/AUTH-JWT-critical?style=for-the-badge&logo=appveyor)](#)
 
-<br>
 
-<br>
 <p align="center">
   <img src="Assets/Banner.png">
 </p>
 
-<br>
 
 ## :scroll: Event Snippet
 
@@ -36,7 +33,7 @@ This Web Development Workshop is designed to quickly introduce you to developing
     <img alt="View" src="Assets/btn.png" width="172" height="50">
 </a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsa-bd%2Fdotnet-react-webdev%2Fblob%2Fmain%2FResources%2FSlide%2FAli-Ahnaf_Introduction-to-Web-Development.pdf&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsa-bd%2Fdotnet-react-webdev%2Fraw%2Fmain%2FResources%2FSlide%2FAli-Ahnaf_Introduction-to-Web-Development.pdf&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br>
 
