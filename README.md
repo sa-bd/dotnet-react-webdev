@@ -23,7 +23,6 @@ This Web Development Workshop is designed to quickly introduce you to developing
  - Work with NoSQL databases like [MongoDB](https://www.mongodb.com/)
  - Uploading files to Cloud Buckets (namely [UploadCare](https://uploadcare.com/))
 
-<br>
 
 ## :books: Event Materials 
 
@@ -49,7 +48,6 @@ This Web Development Workshop is designed to quickly introduce you to developing
 * How to setup the environment to start developing with **.Net** and **React**
 * Complete guide to create a simple blog application with JWT authentication
 
-<br>
 
 ## 🚀 Learning Resource
 
@@ -59,7 +57,6 @@ Check out [Learning Paths](https://docs.microsoft.com/en-us/learn/dotnet/) on Mi
 
 [Recording](https://stdntpartners-my.sharepoint.com/:v:/g/personal/ahnaf_ali_studentambassadors_com/EcRur_l-HklAi3QPavZJib0BgOInW42NP9ru6l37LoiVlQ?e=BR6Gz6) Available on **OneDrive**
 
-<br>
 
 ## :star: Credits
 - Speakers : 
